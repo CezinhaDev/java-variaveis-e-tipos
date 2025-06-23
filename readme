@@ -1,0 +1,66 @@
+# ☕ Praticando Java: Variáveis e Tipos
+
+Este repositório contém minha prática com **Java**, focando nos conceitos fundamentais de **variáveis** e **tipos primitivos**. Os exercícios foram desenvolvidos como parte do meu aprendizado contínuo na linguagem, reforçando a base da programação.
+
+## 📌 Conteúdos abordados
+
+- Declaração e inicialização de variáveis
+- Tipos primitivos (`int`, `double`, `char`, `boolean`, `float`, `long`, `short`, `byte`)
+- Conversão de tipos (casting)
+- Leitura de dados com `Scanner`
+- Operações aritméticas e lógicas simples
+- Identificação e correção de erros comuns
+
+## 🧠 Desafios resolvidos
+
+- Criação de programa de cadastro simples (ex: livro, produto, usuário)
+- Uso de entrada de dados do usuário com `Scanner`
+- Cálculo de média de notas e verificação de aprovação
+- Conversão de tipos entre `String` e tipos numéricos
+- Validação de dados básicos com `if` e `else`
+- Manipulação de `char` e `boolean` em decisões simples
+
+## 🚀 Objetivo
+
+Meu objetivo com essa prática é:
+
+- Reforçar a base da linguagem Java
+- Compreender melhor como funciona a alocação de tipos primitivos
+- Praticar lógica de programação com uma linguagem fortemente tipada
+- Me preparar para desafios maiores em Java (como orientação a objetos e Spring Boot)
+
+## 💻 Como executar
+
+1. Clone o repositório:
+
+git clone https://github.com/CezinhaDev/nome-do-repositorio.git
+
+2. Abra no seu editor Java (Eclipse, IntelliJ, VS Code etc.)
+3. Compile e execute os arquivos `.java`
+
+## 📂 Estrutura dos arquivos
+
+📁 src/
+├── CadastroLivro.java
+├── MediaNotas.java
+├── ConversaoTipos.java
+├── OperacoesSimples.java
+└── ScannerExemplo.java
+
+
+> Cada arquivo contém um exercício independente, com comentários explicando o objetivo e funcionamento do código.
+
+---
+
+## 🧠 Aprendizado contínuo
+
+Estou documentando minha evolução em Java. Este é apenas o início da minha jornada como desenvolvedor back-end. Próximo passo: **Orientação a Objetos!**
+
+---
+
+## 🤝 Conecte-se comigo
+
+- [LinkedIn](https://linkedin.com/in/césar-henrique)
+- [GitHub](https://github.com/CezinhaDev)
+
+---
